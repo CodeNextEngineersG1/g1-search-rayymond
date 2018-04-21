@@ -1,4 +1,4 @@
-[
+var database = [
   {
     "replace":"this",
     "with":"your",
